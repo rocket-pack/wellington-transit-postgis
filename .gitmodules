@@ -1,0 +1,3 @@
+[submodule "gtfs_SQL_importer"]
+	path = gtfs_SQL_importer
+	url = git@github.com:joshmcarthur/gtfs_SQL_importer.git
